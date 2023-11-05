@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "FigmaCompose"
 include(":app")
- 
+include(":annotation")
+include(":processor")
